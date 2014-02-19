@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Welcome to Console Application");
             Console.WriteLine("Welcome from Master");
+            Console.ReadLine();
         }
     }
 }
